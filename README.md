@@ -5,7 +5,7 @@
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/MohamedEl_Sawy)
 [![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://linkedin.com/in/mohamedsawy)
 [![Facebook URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://www.facebook.com/mohamed.sawi.9/)
-[![Instagram URL](https://img.shields.io/static/v1?color=blue&label=Facebook&logo=Instagram&logoColor=white&style=for-the-badge&message=Connect)](https://www.instagram.com/mohamedeesawi)
+[![Instagram URL](https://img.shields.io/static/v1?color=blue&label=Instagram&logo=Instagram&logoColor=white&style=for-the-badge&message=Connect)](https://www.instagram.com/mohamedeesawi)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
