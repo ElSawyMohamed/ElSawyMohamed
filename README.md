@@ -1,5 +1,5 @@
 <h2> Hi there, I'm Mohamed El-Sawy! 👋</h2>
-<img align='right' src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/selimdoyranli/selimdoyranli/master/preview.gif" width="230">
 <p>Senior iOS Enginner<img src="https://media.giphy.com/media/ZZg7C3MEglarBUqcoE/giphy.gif" width="30"></p>
 
 [![Twitter URL](https://img.shields.io/static/v1?color=blue&label=Twitter%20&logo=twitter&logoColor=white&style=for-the-badge&message=Follow)](https://twitter.com/MohamedEl_Sawy)
